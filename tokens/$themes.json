@@ -1,0 +1,11 @@
+[
+  {
+    "id": "9958b44df7a62003bfc9a3adc0484b7f0c95de37",
+    "name": "Base",
+    "selectedTokenSets": {
+      "global": "source",
+      "alias": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
