@@ -616,5 +616,27 @@
       "type": "sizing",
       "description": "2px"
     }
+  },
+  "opacity": {
+    "none": {
+      "value": "0",
+      "type": "opacity"
+    },
+    "subtle": {
+      "value": "0.25",
+      "type": "opacity"
+    },
+    "medium": {
+      "value": "0.5",
+      "type": "opacity"
+    },
+    "strong": {
+      "value": "0.8",
+      "type": "opacity"
+    },
+    "full": {
+      "value": "1",
+      "type": "opacity"
+    }
   }
 }

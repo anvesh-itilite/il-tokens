@@ -5,7 +5,7 @@
     "description": "Default background color for the entire app."
   },
   "backdrop": {
-    "value": "rgba({color.gray.900}, 0.5)",
+    "value": "rgba({color.gray.900}, {opacity.medium})",
     "type": "color",
     "description": "Used for background color of the backdrop component for navigation and modal."
   },
@@ -305,7 +305,7 @@
       "description": "Icon color on critical actions."
     },
     "inverse-subtle": {
-      "value": "rgba({color.white}, 0.5)",
+      "value": "rgba({color.white}, {opacity.medium})",
       "type": "color",
       "description": "Secondary icon color to be used as translucent white on dark colored surfaces."
     }
