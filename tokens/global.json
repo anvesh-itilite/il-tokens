@@ -670,5 +670,32 @@
       "type": "borderRadius",
       "description": "128px, Used for rounded avatars, pill shaped tags etc."
     }
+  },
+  "border-width": {
+    "0": {
+      "value": "0rem",
+      "type": "borderWidth",
+      "description": "0px"
+    },
+    "1": {
+      "value": "0.0625rem",
+      "type": "borderWidth",
+      "description": "1px"
+    },
+    "2": {
+      "value": "0.125rem",
+      "type": "borderWidth",
+      "description": "2px"
+    },
+    "3": {
+      "value": "0.1875rem",
+      "type": "borderWidth",
+      "description": "3px"
+    },
+    "4": {
+      "value": "0.25rem",
+      "type": "borderWidth",
+      "description": "4px"
+    }
   }
 }

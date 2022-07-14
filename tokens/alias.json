@@ -269,6 +269,11 @@
       "type": "color",
       "description": "Disabled icon color."
     },
+    "primary": {
+      "value": "{color.orange.500}",
+      "type": "color",
+      "description": "Primary icon color on light surfaces."
+    },
     "info": {
       "value": "{color.blue.500}",
       "type": "color",
