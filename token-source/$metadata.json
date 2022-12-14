@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "alias",
     "global",
+    "alias",
     "colors",
     "fonts",
     "borders",
