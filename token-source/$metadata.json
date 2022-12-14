@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "alias",
+    "global",
+    "colors",
+    "fonts",
+    "borders",
+    "spacing",
+    "sizing",
+    "opacity",
+    "shadow"
+  ]
+}

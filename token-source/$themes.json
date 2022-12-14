@@ -4,7 +4,14 @@
     "name": "Base",
     "selectedTokenSets": {
       "global": "source",
-      "alias": "enabled"
+      "alias": "enabled",
+      "colors": "disabled",
+      "spacing": "disabled",
+      "sizing": "disabled",
+      "fonts": "disabled",
+      "opacity": "disabled",
+      "borders": "disabled",
+      "shadow": "disabled"
     },
     "$figmaStyleReferences": {}
   }
