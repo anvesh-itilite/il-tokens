@@ -128,27 +128,5 @@
       "textDecoration": "{text-decoration.none}"
     },
     "type": "typography"
-  },
-  "focus": {
-    "value": [
-      {
-        "color": "{interactive.primary}",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "4"
-      },
-      {
-        "color": "{color.white}",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "2"
-      }
-    ],
-    "type": "boxShadow",
-    "description": "Used for focus visible."
   }
 }
