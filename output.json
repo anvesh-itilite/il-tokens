@@ -1,0 +1,1722 @@
+{
+  "spacing": {
+    "0": {
+      "value": "0rem",
+      "type": "spacing",
+      "description": "0px"
+    },
+    "1": {
+      "value": "0.25rem",
+      "type": "spacing",
+      "description": "4px"
+    },
+    "2": {
+      "value": "0.5rem",
+      "type": "spacing",
+      "description": "8px"
+    },
+    "3": {
+      "value": "0.75rem",
+      "type": "spacing",
+      "description": "12px"
+    },
+    "4": {
+      "value": "1rem",
+      "type": "spacing",
+      "description": "16px"
+    },
+    "5": {
+      "value": "1.25rem",
+      "type": "spacing",
+      "description": "20px"
+    },
+    "6": {
+      "value": "1.5rem",
+      "type": "spacing",
+      "description": "24px"
+    },
+    "8": {
+      "value": "2rem",
+      "type": "spacing",
+      "description": "32px"
+    },
+    "10": {
+      "value": "2.5rem",
+      "type": "spacing",
+      "description": "40px"
+    },
+    "12": {
+      "value": "3rem",
+      "type": "spacing",
+      "description": "48px"
+    },
+    "16": {
+      "value": "4rem",
+      "type": "spacing",
+      "description": "64px"
+    },
+    "20": {
+      "value": "5rem",
+      "type": "spacing",
+      "description": "80px"
+    },
+    "24": {
+      "value": "6rem",
+      "type": "spacing",
+      "description": "96px"
+    },
+    "32": {
+      "value": "8rem",
+      "type": "spacing",
+      "description": "128px"
+    },
+    "1px": {
+      "value": "0.0625rem",
+      "type": "spacing",
+      "description": "1px"
+    },
+    "2px": {
+      "value": "0.125rem",
+      "type": "spacing",
+      "description": "2px"
+    }
+  },
+  "sizing": {
+    "0": {
+      "value": "0rem",
+      "type": "sizing",
+      "description": "0px"
+    },
+    "1": {
+      "value": "0.25rem",
+      "type": "sizing",
+      "description": "4px"
+    },
+    "2": {
+      "value": "0.5rem",
+      "type": "sizing",
+      "description": "8px"
+    },
+    "3": {
+      "value": "0.75rem",
+      "type": "sizing",
+      "description": "12px"
+    },
+    "4": {
+      "value": "1rem",
+      "type": "sizing",
+      "description": "16px"
+    },
+    "5": {
+      "value": "1.25rem",
+      "type": "sizing",
+      "description": "20px"
+    },
+    "6": {
+      "value": "1.5rem",
+      "type": "sizing",
+      "description": "24px"
+    },
+    "8": {
+      "value": "2rem",
+      "type": "sizing",
+      "description": "32px"
+    },
+    "10": {
+      "value": "2.5rem",
+      "type": "sizing",
+      "description": "40px"
+    },
+    "12": {
+      "value": "3rem",
+      "type": "sizing",
+      "description": "48px"
+    },
+    "16": {
+      "value": "4rem",
+      "type": "sizing",
+      "description": "64px"
+    },
+    "20": {
+      "value": "5rem",
+      "type": "sizing",
+      "description": "80px"
+    },
+    "24": {
+      "value": "6rem",
+      "type": "sizing",
+      "description": "96px"
+    },
+    "32": {
+      "value": "8rem",
+      "type": "sizing",
+      "description": "128px"
+    },
+    "1px": {
+      "value": "0.0625rem",
+      "type": "sizing",
+      "description": "1px"
+    },
+    "2px": {
+      "value": "0.125rem",
+      "type": "sizing",
+      "description": "2px"
+    }
+  },
+  "shadow": {
+    "100": {
+      "value": {
+        "x": 0,
+        "y": 1,
+        "blur": 0,
+        "spread": 0,
+        "color": "#1118271a",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "Used for buttons, cards, panels etc."
+    },
+    "200": {
+      "value": [
+        {
+          "color": "#1118271a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 1,
+          "blur": 1,
+          "spread": 0
+        },
+        {
+          "color": "#11182726",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 4,
+          "spread": 0
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Used for cards, panels etc."
+    },
+    "300": {
+      "value": [
+        {
+          "color": "#1118271a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 1,
+          "blur": 2,
+          "spread": 0
+        },
+        {
+          "color": "#11182726",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 8,
+          "spread": 0
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Used for navigation panels."
+    },
+    "400": {
+      "value": [
+        {
+          "color": "#11182726",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 1,
+          "blur": 3,
+          "spread": 0
+        },
+        {
+          "color": "#11182726",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 8,
+          "blur": 16,
+          "spread": -2
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Used for popovers, menus etc."
+    },
+    "500": {
+      "value": [
+        {
+          "color": "#11182733",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 1,
+          "blur": 4,
+          "spread": -1
+        },
+        {
+          "color": "#11182726",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 16,
+          "blur": 32,
+          "spread": -4
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Used for modals."
+    },
+    "inset": {
+      "value": {
+        "color": "#1118271a",
+        "type": "innerShadow",
+        "x": 0,
+        "y": 2,
+        "blur": 0,
+        "spread": 0
+      },
+      "type": "boxShadow"
+    }
+  },
+  "focus": {
+    "value": [
+      {
+        "color": "#0a65e7",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 4
+      },
+      {
+        "color": "#ffffff",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 0,
+        "spread": 2
+      }
+    ],
+    "type": "boxShadow",
+    "description": "Used for focus visible."
+  },
+  "opacity": {
+    "none": {
+      "value": 0,
+      "type": "opacity"
+    },
+    "subtle": {
+      "value": 0.25,
+      "type": "opacity"
+    },
+    "medium": {
+      "value": 0.5,
+      "type": "opacity"
+    },
+    "strong": {
+      "value": 0.8,
+      "type": "opacity"
+    },
+    "full": {
+      "value": 1,
+      "type": "opacity"
+    }
+  },
+  "font-family": {
+    "inter": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    }
+  },
+  "line-height": {
+    "10": {
+      "value": "12px",
+      "type": "lineHeights",
+      "description": "12px or 0.75rem"
+    },
+    "20": {
+      "value": "16px",
+      "type": "lineHeights",
+      "description": "16px or 1rem"
+    },
+    "30": {
+      "value": "20px",
+      "type": "lineHeights",
+      "description": "20px or 1.25rem"
+    },
+    "40": {
+      "value": "24px",
+      "type": "lineHeights",
+      "description": "24px or 1.5rem"
+    },
+    "50": {
+      "value": "28px",
+      "type": "lineHeights",
+      "description": "28px or 1.75rem"
+    },
+    "60": {
+      "value": "32px",
+      "type": "lineHeights",
+      "description": "32px or 2rem"
+    },
+    "70": {
+      "value": "36px",
+      "type": "lineHeights",
+      "description": "36px or 2.25rem"
+    }
+  },
+  "font-weight": {
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "semibold": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    }
+  },
+  "font-size": {
+    "10": {
+      "value": "0.625rem",
+      "type": "fontSizes",
+      "description": "10px"
+    },
+    "20": {
+      "value": "0.75rem",
+      "type": "fontSizes",
+      "description": "12px"
+    },
+    "30": {
+      "value": "0.875rem",
+      "type": "fontSizes",
+      "description": "14px"
+    },
+    "40": {
+      "value": "1rem",
+      "type": "fontSizes",
+      "description": "16px"
+    },
+    "50": {
+      "value": "1.25rem",
+      "type": "fontSizes",
+      "description": "20px"
+    },
+    "60": {
+      "value": "1.5rem",
+      "type": "fontSizes",
+      "description": "24px"
+    },
+    "70": {
+      "value": "1.75rem",
+      "type": "fontSizes",
+      "description": "28px"
+    }
+  },
+  "letter-spacing": {
+    "loose": {
+      "value": "1%",
+      "type": "letterSpacing"
+    },
+    "normal": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "tight": {
+      "value": "-0.5%",
+      "type": "letterSpacing"
+    },
+    "tighter": {
+      "value": "-1%",
+      "type": "letterSpacing"
+    }
+  },
+  "text-decoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  },
+  "Title large": {
+    "fontFamily": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "36px",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "1.75rem",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": "-1%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "",
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "Title medium": {
+    "fontFamily": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "32px",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "1.5rem",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": "-1%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "",
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "Title small": {
+    "fontFamily": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "28px",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "1.25rem",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": "-0.5%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "",
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "Heading": {
+    "fontFamily": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "24px",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "1rem",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "",
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "Label": {
+    "fontFamily": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "20px",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "0.875rem",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "",
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "Body large": {
+    "fontFamily": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "24px",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "1rem",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "",
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "Body small": {
+    "fontFamily": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "20px",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "0.875rem",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "",
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "Body link": {
+    "fontFamily": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "20px",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "0.875rem",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "",
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  },
+  "Caption large": {
+    "fontFamily": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "16px",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "0.75rem",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": "1%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "",
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "Caption small": {
+    "fontFamily": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "fontWeight": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "lineHeight": {
+      "value": "12px",
+      "type": "lineHeight"
+    },
+    "fontSize": {
+      "value": "0.625rem",
+      "type": "fontSizes"
+    },
+    "letterSpacing": {
+      "value": "1%",
+      "type": "letterSpacing"
+    },
+    "paragraphSpacing": {
+      "value": "",
+      "type": "paragraphSpacing"
+    },
+    "textCase": {
+      "value": "",
+      "type": "textCase"
+    },
+    "textDecoration": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "color": {
+    "background": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Default background color for the entire app."
+    },
+    "backdrop": {
+      "value": "#11182780",
+      "type": "color",
+      "description": "Used for background color of the backdrop component for navigation and modal."
+    },
+    "surface": {
+      "default": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Used for background color of Card, Modal, Sheet, and Popover."
+      },
+      "default-subtle": {
+        "value": "#f9fafb",
+        "type": "color",
+        "description": "Subtle version of default surface color."
+      },
+      "default-hover": {
+        "value": "#f1f3f5",
+        "type": "color",
+        "description": "Used for hovered background color of Card, Modal, Sheet, and Popover."
+      },
+      "default-active": {
+        "value": "#e5e9ed",
+        "type": "color",
+        "description": "Used for pressed background color of Card, Modal, Sheet, and Popover."
+      },
+      "default-strong": {
+        "value": "#d3d8df",
+        "type": "color",
+        "description": "Used for background color of neutral elements including badges."
+      },
+      "dark": {
+        "value": "#111827",
+        "type": "color",
+        "description": "Dark version of default surface color."
+      },
+      "dark-hover": {
+        "value": "#212837",
+        "type": "color",
+        "description": "Dark version of default hovered surface color."
+      },
+      "dark-active": {
+        "value": "#363e4f",
+        "type": "color",
+        "description": "Dark version of default pressed surface color."
+      },
+      "info": {
+        "value": "#ebf8ff",
+        "type": "color",
+        "description": "Used for background color of informational elements including banners."
+      },
+      "info-hover": {
+        "value": "#d2edff",
+        "type": "color",
+        "description": "Used for hovered background color of informational elements including banners."
+      },
+      "info-active": {
+        "value": "#b9e2ff",
+        "type": "color",
+        "description": "Used for pressed background color of informational elements including banners."
+      },
+      "info-strong": {
+        "value": "#86cbff",
+        "type": "color",
+        "description": "Used for background color of informational elements including badges."
+      },
+      "success": {
+        "value": "#d9fbe5",
+        "type": "color",
+        "description": "Used for background color of success elements including banners."
+      },
+      "success-hover": {
+        "value": "#c2f4d5",
+        "type": "color",
+        "description": "Used for hovered background color of success elements including banners."
+      },
+      "success-active": {
+        "value": "#abeec4",
+        "type": "color",
+        "description": "Used for pressed background color of success elements including banners."
+      },
+      "success-strong": {
+        "value": "#70dc9d",
+        "type": "color",
+        "description": "Used for background color of success elements including badges."
+      },
+      "warning": {
+        "value": "#fffbe0",
+        "type": "color",
+        "description": "Used for background color of warning elements including banners."
+      },
+      "warning-hover": {
+        "value": "#fceeaf",
+        "type": "color",
+        "description": "Used for hovered background color of warning elements including banners."
+      },
+      "warning-active": {
+        "value": "#fae17d",
+        "type": "color",
+        "description": "Used for pressed background color of warning elements including banners."
+      },
+      "warning-strong": {
+        "value": "#eac54f",
+        "type": "color",
+        "description": "Used for background color of warning elements including badges."
+      },
+      "critical": {
+        "value": "#fff1f0",
+        "type": "color",
+        "description": "Used for background color of critical elements including banners."
+      },
+      "critical-hover": {
+        "value": "#ffdfde",
+        "type": "color",
+        "description": "Used for hovered background color of critical elements including banners and menu items."
+      },
+      "critical-active": {
+        "value": "#ffcecb",
+        "type": "color",
+        "description": "Used for pressed background color of critical elements including banners and menu items."
+      },
+      "critical-strong": {
+        "value": "#ffaba9",
+        "type": "color",
+        "description": "Used for background color of critical elements including badges."
+      },
+      "selected": {
+        "value": "#ebf8ff",
+        "type": "color",
+        "description": "Used for background color in selected interactive elements like lists."
+      },
+      "selected-hover": {
+        "value": "#d2edff",
+        "type": "color",
+        "description": "Used for hovered background color in selected interactive elements like lists."
+      },
+      "selected-active": {
+        "value": "#b9e2ff",
+        "type": "color",
+        "description": "Used for pressed background color in selected interactive elements like lists."
+      },
+      "primary": {
+        "value": "#fff1e1",
+        "type": "color",
+        "description": "Used for background color in selected interactive states in navigation and tabs."
+      },
+      "primary-hover": {
+        "value": "#ffe9cf",
+        "type": "color",
+        "description": "Used for hovered background color in selected interactive states in navigation and tabs."
+      },
+      "primary-active": {
+        "value": "#ffe0bc",
+        "type": "color",
+        "description": "Used for pressed background color in selected interactive states in navigation and tabs."
+      },
+      "primary-strong": {
+        "value": "#fec48c",
+        "type": "color",
+        "description": "Used for background color of special elements including badges."
+      }
+    },
+    "text": {
+      "default": {
+        "value": "#111827",
+        "type": "color",
+        "description": "Default text color. Use it for Titles, Headings, Body copy etc."
+      },
+      "subtle": {
+        "value": "#363e4f",
+        "type": "color",
+        "description": "Subtle version of default text color. Use it for UI labels and text heavy layouts."
+      },
+      "weak": {
+        "value": "#6b7280",
+        "type": "color",
+        "description": "Secondary text color. Use it to show type hierarchy."
+      },
+      "disabled": {
+        "value": "#868d9a",
+        "type": "color",
+        "description": "Disabled text and placeholder text color."
+      },
+      "primary": {
+        "value": "#ec5d25",
+        "type": "color",
+        "description": "Primary text color on light surfaces."
+      },
+      "primary-hover": {
+        "value": "#b94710",
+        "type": "color",
+        "description": "Primary hovered text color on light surfaces."
+      },
+      "primary-active": {
+        "value": "#893404",
+        "type": "color",
+        "description": "Primary pressed text color on light surfaces."
+      },
+      "info": {
+        "value": "#0a65e7",
+        "type": "color",
+        "description": "Text color for inert informational elements."
+      },
+      "success": {
+        "value": "#1b7e49",
+        "type": "color",
+        "description": "Text color for inert success elements."
+      },
+      "warning": {
+        "value": "#9a6700",
+        "type": "color",
+        "description": "Text color for inert warning elements like error message."
+      },
+      "critical": {
+        "value": "#cf2231",
+        "type": "color",
+        "description": "Text color for inert critical elements like error message."
+      },
+      "on-interactive": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Text color on interactive elements."
+      },
+      "on-primary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Text color on primary actions."
+      },
+      "on-critical": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Text color on critical actions."
+      },
+      "inverse-subtle": {
+        "value": "#ffffff80",
+        "type": "color",
+        "description": "Secondary text color to be used as translucent white on dark colored surfaces."
+      },
+      "on-dark": {
+        "value": "#f9fafb",
+        "type": "color",
+        "description": "Default text color on dark surfaces."
+      },
+      "weak-on-dark": {
+        "value": "#b6bac3",
+        "type": "color",
+        "description": "Secondary text color on dark surfaces."
+      }
+    },
+    "icon": {
+      "default": {
+        "value": "#6b7280",
+        "type": "color",
+        "description": "Default icon color."
+      },
+      "weak": {
+        "value": "#868d9a",
+        "type": "color",
+        "description": "Secondary icon color."
+      },
+      "disabled": {
+        "value": "#b6bac3",
+        "type": "color",
+        "description": "Disabled icon color."
+      },
+      "primary": {
+        "value": "#ec5d25",
+        "type": "color",
+        "description": "Primary icon color on light surfaces."
+      },
+      "info": {
+        "value": "#0a65e7",
+        "type": "color",
+        "description": "Icon color for informational elements."
+      },
+      "success": {
+        "value": "#1b7e49",
+        "type": "color",
+        "description": "Icon color for success elements."
+      },
+      "warning": {
+        "value": "#9a6700",
+        "type": "color",
+        "description": "Icon color for warning elements."
+      },
+      "critical": {
+        "value": "#cf2231",
+        "type": "color",
+        "description": "Icon color for critical elements."
+      },
+      "on-interactive": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Icon color on interactive elements."
+      },
+      "on-primary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Icon color on primary actions."
+      },
+      "on-critical": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Icon color on critical actions."
+      },
+      "inverse-subtle": {
+        "value": "#ffffff80",
+        "type": "color",
+        "description": "Secondary icon color to be used as translucent white on dark colored surfaces."
+      }
+    },
+    "border": {
+      "default": {
+        "value": "#b6bac3",
+        "type": "color",
+        "description": "Default border color for elements."
+      },
+      "default-subtle": {
+        "value": "#d3d8df",
+        "type": "color",
+        "description": "Subtle version of default border color."
+      },
+      "default-weak": {
+        "value": "#e5e9ed",
+        "type": "color",
+        "description": "Border color for elements like dividers within tables."
+      },
+      "default-hover": {
+        "value": "#6b7280",
+        "type": "color",
+        "description": "Subtle version of hovered default border color."
+      },
+      "dark": {
+        "value": "#363e4f",
+        "type": "color",
+        "description": "Dark version of default border color."
+      },
+      "dark-subtle": {
+        "value": "#212837",
+        "type": "color",
+        "description": "Dark version of subtle default border color."
+      },
+      "dark-hover": {
+        "value": "#6b7280",
+        "type": "color",
+        "description": "Dark version of hovered default border color."
+      },
+      "info-default": {
+        "value": "#0a65e7",
+        "type": "color",
+        "description": "Border color for informational elements."
+      },
+      "info-subtle": {
+        "value": "#86cbff",
+        "type": "color",
+        "description": "Subtle version of border color for informational elements."
+      },
+      "success-default": {
+        "value": "#1b7e49",
+        "type": "color",
+        "description": "Border color for success elements."
+      },
+      "success-subtle": {
+        "value": "#70dc9d",
+        "type": "color",
+        "description": "Subtle version of border color for success elements."
+      },
+      "warning-default": {
+        "value": "#9a6700",
+        "type": "color",
+        "description": "Border color for warning elements."
+      },
+      "warning-subtle": {
+        "value": "#eac54f",
+        "type": "color",
+        "description": "Subtle version of border color for warning elements."
+      },
+      "critical-default": {
+        "value": "#cf2231",
+        "type": "color",
+        "description": "Border color for critical elements."
+      },
+      "critical-subtle": {
+        "value": "#ffaba9",
+        "type": "color",
+        "description": "Subtle version of border color for critical elements."
+      },
+      "primary-default": {
+        "value": "#ec5d25",
+        "type": "color",
+        "description": "Border color for primary, special, and brand related elements."
+      },
+      "brand-subtle": {
+        "value": "#fec48c",
+        "type": "color",
+        "description": "Subtle version of border color for primary, special, and brand related elements."
+      }
+    },
+    "action": {
+      "primary": {
+        "value": "#ec5d25",
+        "type": "color",
+        "description": "Background color for primary actions, fill color for icons, text color in navigation and tabs."
+      },
+      "primary-hover": {
+        "value": "#b94710",
+        "type": "color",
+        "description": "Background color for primary actions, fill color for icons, text color in navigation and tabs in hovered state."
+      },
+      "primary-active": {
+        "value": "#893404",
+        "type": "color",
+        "description": "Background color for primary actions, fill color for icons, text color in navigation and tabs in pressed state."
+      },
+      "primary-selected": {
+        "value": "#632501",
+        "type": "color",
+        "description": "Background color for primary actions, fill color for icons, text color in navigation and tabs in selected state."
+      },
+      "secondary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Background color for secondary and tertiary actions like buttons."
+      },
+      "secondary-hover": {
+        "value": "#f9fafb",
+        "type": "color",
+        "description": "Background color for secondary and tertiary actions like buttons in hovered state."
+      },
+      "secondary-active": {
+        "value": "#f1f3f5",
+        "type": "color",
+        "description": "Background color for secondary and tertiary actions like buttons in pressed state."
+      },
+      "secondary-selected": {
+        "value": "#6b7280",
+        "type": "color",
+        "description": "Background color for secondary and tertiary actions like buttons in selected state."
+      },
+      "critical": {
+        "value": "#cf2231",
+        "type": "color",
+        "description": "Background color for critical actions like buttons and toast messages."
+      },
+      "critical-hover": {
+        "value": "#a40e29",
+        "type": "color",
+        "description": "Background color for critical actions like buttons and toast messages in hovered state."
+      },
+      "critical-active": {
+        "value": "#820720",
+        "type": "color",
+        "description": "Background color for critical actions like buttons and toast messages in pressed state."
+      },
+      "critical-selected": {
+        "value": "#660019",
+        "type": "color",
+        "description": "Background color for critical actions like buttons and toast messages in selected state."
+      }
+    },
+    "interactive": {
+      "primary": {
+        "value": "#0a65e7",
+        "type": "color",
+        "description": "Used for links, text buttons, checkboxes etc."
+      },
+      "primary-hover": {
+        "value": "#054db9",
+        "type": "color",
+        "description": "Used for hovered links, text buttons, checkboxes etc."
+      },
+      "primary-active": {
+        "value": "#033a94",
+        "type": "color",
+        "description": "Used for pressed links, text buttons, checkboxes etc."
+      },
+      "critical": {
+        "value": "#cf2231",
+        "type": "color",
+        "description": "Used for destructive interactive elements like links, text buttons, error states of checkboxes etc. Not used for critical banners and badges."
+      },
+      "critical-hover": {
+        "value": "#a40e29",
+        "type": "color",
+        "description": "Used for hovered destructive interactive elements like links, text buttons, error states of checkboxes etc. Not used for critical banners and badges."
+      },
+      "critical-active": {
+        "value": "#820720",
+        "type": "color",
+        "description": "Used for pressed destructive interactive elements like links, text buttons, error states of checkboxes etc. Not used for critical banners and badges."
+      },
+      "primary-on-dark": {
+        "value": "#3d89ff",
+        "type": "color",
+        "description": "Used for links, text buttons, checkboxes etc. on dark surfaces."
+      },
+      "primary-on-dark-hover": {
+        "value": "#60acff",
+        "type": "color",
+        "description": "Used for hovered links, text buttons, checkboxes etc. on dark surfaces."
+      },
+      "primary-on-dark-active": {
+        "value": "#86cbff",
+        "type": "color",
+        "description": "Used for pressed links, text buttons, checkboxes etc. on dark surfaces."
+      }
+    },
+    "black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "gray": {
+      "50": {
+        "value": "#f9fafb",
+        "type": "color"
+      },
+      "80": {
+        "value": "#f1f3f5",
+        "type": "color"
+      },
+      "100": {
+        "value": "#e5e9ed",
+        "type": "color"
+      },
+      "200": {
+        "value": "#d3d8df",
+        "type": "color"
+      },
+      "300": {
+        "value": "#b6bac3",
+        "type": "color"
+      },
+      "400": {
+        "value": "#868d9a",
+        "type": "color"
+      },
+      "500": {
+        "value": "#6b7280",
+        "type": "color"
+      },
+      "600": {
+        "value": "#4d5668",
+        "type": "color"
+      },
+      "700": {
+        "value": "#363e4f",
+        "type": "color"
+      },
+      "800": {
+        "value": "#212837",
+        "type": "color"
+      },
+      "900": {
+        "value": "#111827",
+        "type": "color"
+      }
+    },
+    "orange": {
+      "50": {
+        "value": "#fff1e1",
+        "type": "color"
+      },
+      "80": {
+        "value": "#ffe9cf",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffe0bc",
+        "type": "color"
+      },
+      "200": {
+        "value": "#fec48c",
+        "type": "color"
+      },
+      "300": {
+        "value": "#faa666",
+        "type": "color"
+      },
+      "400": {
+        "value": "#f58235",
+        "type": "color"
+      },
+      "500": {
+        "value": "#ec5d25",
+        "type": "color"
+      },
+      "600": {
+        "value": "#b94710",
+        "type": "color"
+      },
+      "700": {
+        "value": "#893404",
+        "type": "color"
+      },
+      "800": {
+        "value": "#632501",
+        "type": "color"
+      },
+      "900": {
+        "value": "#471700",
+        "type": "color"
+      }
+    },
+    "blue": {
+      "50": {
+        "value": "#ebf8ff",
+        "type": "color"
+      },
+      "80": {
+        "value": "#d2edff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#b9e2ff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#86cbff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#60acff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#3d89ff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#0a65e7",
+        "type": "color"
+      },
+      "600": {
+        "value": "#054db9",
+        "type": "color"
+      },
+      "700": {
+        "value": "#033a94",
+        "type": "color"
+      },
+      "800": {
+        "value": "#0b2e70",
+        "type": "color"
+      },
+      "900": {
+        "value": "#001f5c",
+        "type": "color"
+      }
+    },
+    "green": {
+      "50": {
+        "value": "#d9fbe5",
+        "type": "color"
+      },
+      "80": {
+        "value": "#c2f4d5",
+        "type": "color"
+      },
+      "100": {
+        "value": "#abeec4",
+        "type": "color"
+      },
+      "200": {
+        "value": "#70dc9d",
+        "type": "color"
+      },
+      "300": {
+        "value": "#4bc17f",
+        "type": "color"
+      },
+      "400": {
+        "value": "#2ea363",
+        "type": "color"
+      },
+      "500": {
+        "value": "#1b7e49",
+        "type": "color"
+      },
+      "600": {
+        "value": "#116238",
+        "type": "color"
+      },
+      "700": {
+        "value": "#044e2a",
+        "type": "color"
+      },
+      "800": {
+        "value": "#003d20",
+        "type": "color"
+      },
+      "900": {
+        "value": "#002d18",
+        "type": "color"
+      }
+    },
+    "yellow": {
+      "50": {
+        "value": "#fffbe0",
+        "type": "color"
+      },
+      "80": {
+        "value": "#fceeaf",
+        "type": "color"
+      },
+      "100": {
+        "value": "#fae17d",
+        "type": "color"
+      },
+      "200": {
+        "value": "#eac54f",
+        "type": "color"
+      },
+      "300": {
+        "value": "#d4a72c",
+        "type": "color"
+      },
+      "400": {
+        "value": "#bf8700",
+        "type": "color"
+      },
+      "500": {
+        "value": "#9a6700",
+        "type": "color"
+      },
+      "600": {
+        "value": "#7d4e00",
+        "type": "color"
+      },
+      "700": {
+        "value": "#633c01",
+        "type": "color"
+      },
+      "800": {
+        "value": "#4d2d00",
+        "type": "color"
+      },
+      "900": {
+        "value": "#3b2300",
+        "type": "color"
+      }
+    },
+    "red": {
+      "50": {
+        "value": "#fff1f0",
+        "type": "color"
+      },
+      "80": {
+        "value": "#ffdfde",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffcecb",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ffaba9",
+        "type": "color"
+      },
+      "300": {
+        "value": "#ff8183",
+        "type": "color"
+      },
+      "400": {
+        "value": "#fa454c",
+        "type": "color"
+      },
+      "500": {
+        "value": "#cf2231",
+        "type": "color"
+      },
+      "600": {
+        "value": "#a40e29",
+        "type": "color"
+      },
+      "700": {
+        "value": "#820720",
+        "type": "color"
+      },
+      "800": {
+        "value": "#660019",
+        "type": "color"
+      },
+      "900": {
+        "value": "#4c0015",
+        "type": "color"
+      }
+    },
+    "purple": {
+      "50": {
+        "value": "#fcf5ff",
+        "type": "color"
+      },
+      "80": {
+        "value": "#f3e7ff",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ead9ff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#d4baff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#bc9aff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#9b79f9",
+        "type": "color"
+      },
+      "500": {
+        "value": "#7855df",
+        "type": "color"
+      },
+      "600": {
+        "value": "#5d3ac2",
+        "type": "color"
+      },
+      "700": {
+        "value": "#4a2b9e",
+        "type": "color"
+      },
+      "800": {
+        "value": "#38207f",
+        "type": "color"
+      },
+      "900": {
+        "value": "#281566",
+        "type": "color"
+      }
+    }
+  },
+  "border-radius": {
+    "none": {
+      "value": "0rem",
+      "type": "borderRadius",
+      "description": "0px, Border radius reset."
+    },
+    "smaller": {
+      "value": "0.125rem",
+      "type": "borderRadius",
+      "description": "2px, Used for surface level elements."
+    },
+    "small": {
+      "value": "0.25rem",
+      "type": "borderRadius",
+      "description": "4px, Used for menu items and internal units of components."
+    },
+    "medium": {
+      "value": "0.5rem",
+      "type": "borderRadius",
+      "description": "8px, Used for buttons, menu containers etc."
+    },
+    "large": {
+      "value": "0.75rem",
+      "type": "borderRadius",
+      "description": "12px, Used for modals, side sheets etc."
+    },
+    "pill": {
+      "value": "8rem",
+      "type": "borderRadius",
+      "description": "128px, Used for rounded avatars, pill shaped tags etc."
+    }
+  },
+  "border-width": {
+    "0": {
+      "value": "0rem",
+      "type": "borderWidth",
+      "description": "0px"
+    },
+    "1": {
+      "value": "0.0625rem",
+      "type": "borderWidth",
+      "description": "1px"
+    },
+    "2": {
+      "value": "0.125rem",
+      "type": "borderWidth",
+      "description": "2px"
+    },
+    "3": {
+      "value": "0.1875rem",
+      "type": "borderWidth",
+      "description": "3px"
+    },
+    "4": {
+      "value": "0.25rem",
+      "type": "borderWidth",
+      "description": "4px"
+    }
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "color-choices",
+      "type": "other"
+    },
+    "1": {
+      "value": "colors",
+      "type": "other"
+    },
+    "2": {
+      "value": "fonts",
+      "type": "other"
+    },
+    "3": {
+      "value": "borders",
+      "type": "other"
+    },
+    "4": {
+      "value": "spacing",
+      "type": "other"
+    },
+    "5": {
+      "value": "sizing",
+      "type": "other"
+    },
+    "6": {
+      "value": "opacity",
+      "type": "other"
+    },
+    "7": {
+      "value": "shadow",
+      "type": "other"
+    }
+  }
+}
