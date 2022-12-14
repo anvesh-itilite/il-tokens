@@ -1,1 +1,61 @@
-{}
+{
+  "border-radius": {
+    "none": {
+      "value": "0rem",
+      "type": "borderRadius",
+      "description": "0px, Border radius reset."
+    },
+    "smaller": {
+      "value": "0.125rem",
+      "type": "borderRadius",
+      "description": "2px, Used for surface level elements."
+    },
+    "small": {
+      "value": "0.25rem",
+      "type": "borderRadius",
+      "description": "4px, Used for menu items and internal units of components."
+    },
+    "medium": {
+      "value": "0.5rem",
+      "type": "borderRadius",
+      "description": "8px, Used for buttons, menu containers etc."
+    },
+    "large": {
+      "value": "0.75rem",
+      "type": "borderRadius",
+      "description": "12px, Used for modals, side sheets etc."
+    },
+    "pill": {
+      "value": "8rem",
+      "type": "borderRadius",
+      "description": "128px, Used for rounded avatars, pill shaped tags etc."
+    }
+  },
+  "border-width": {
+    "0": {
+      "value": "0rem",
+      "type": "borderWidth",
+      "description": "0px"
+    },
+    "1": {
+      "value": "0.0625rem",
+      "type": "borderWidth",
+      "description": "1px"
+    },
+    "2": {
+      "value": "0.125rem",
+      "type": "borderWidth",
+      "description": "2px"
+    },
+    "3": {
+      "value": "0.1875rem",
+      "type": "borderWidth",
+      "description": "3px"
+    },
+    "4": {
+      "value": "0.25rem",
+      "type": "borderWidth",
+      "description": "4px"
+    }
+  }
+}

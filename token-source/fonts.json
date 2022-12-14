@@ -1,1 +1,124 @@
-{}
+{
+  "font-family": {
+    "inter": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    }
+  },
+  "line-height": {
+    "10": {
+      "value": "12px",
+      "type": "lineHeights",
+      "description": "12px or 0.75rem"
+    },
+    "20": {
+      "value": "16px",
+      "type": "lineHeights",
+      "description": "16px or 1rem"
+    },
+    "30": {
+      "value": "20px",
+      "type": "lineHeights",
+      "description": "20px or 1.25rem"
+    },
+    "40": {
+      "value": "24px",
+      "type": "lineHeights",
+      "description": "24px or 1.5rem"
+    },
+    "50": {
+      "value": "28px",
+      "type": "lineHeights",
+      "description": "28px or 1.75rem"
+    },
+    "60": {
+      "value": "32px",
+      "type": "lineHeights",
+      "description": "32px or 2rem"
+    },
+    "70": {
+      "value": "36px",
+      "type": "lineHeights",
+      "description": "36px or 2.25rem"
+    }
+  },
+  "font-weight": {
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "semibold": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    }
+  },
+  "font-size": {
+    "10": {
+      "value": "0.625rem",
+      "type": "fontSizes",
+      "description": "10px"
+    },
+    "20": {
+      "value": "0.75rem",
+      "type": "fontSizes",
+      "description": "12px"
+    },
+    "30": {
+      "value": "0.875rem",
+      "type": "fontSizes",
+      "description": "14px"
+    },
+    "40": {
+      "value": "1rem",
+      "type": "fontSizes",
+      "description": "16px"
+    },
+    "50": {
+      "value": "1.25rem",
+      "type": "fontSizes",
+      "description": "20px"
+    },
+    "60": {
+      "value": "1.5rem",
+      "type": "fontSizes",
+      "description": "24px"
+    },
+    "70": {
+      "value": "1.75rem",
+      "type": "fontSizes",
+      "description": "28px"
+    }
+  },
+  "letter-spacing": {
+    "loose": {
+      "value": "1%",
+      "type": "letterSpacing"
+    },
+    "normal": {
+      "value": "0%",
+      "type": "letterSpacing"
+    },
+    "tight": {
+      "value": "-0.5%",
+      "type": "letterSpacing"
+    },
+    "tighter": {
+      "value": "-1%",
+      "type": "letterSpacing"
+    }
+  },
+  "text-decoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  }
+}
