@@ -115,7 +115,7 @@
   "focus": {
     "value": [
       {
-        "color": "{interactive.primary}",
+        "color": "{color.interactive.primary}",
         "type": "dropShadow",
         "x": "0",
         "y": "0",

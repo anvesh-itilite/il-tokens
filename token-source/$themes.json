@@ -1,18 +1,1 @@
-[
-  {
-    "id": "9958b44df7a62003bfc9a3adc0484b7f0c95de37",
-    "name": "Base",
-    "selectedTokenSets": {
-      "alias": "enabled",
-      "colors": "disabled",
-      "spacing": "disabled",
-      "sizing": "disabled",
-      "fonts": "disabled",
-      "opacity": "disabled",
-      "borders": "disabled",
-      "shadow": "disabled",
-      "color-choices": "source"
-    },
-    "$figmaStyleReferences": {}
-  }
-]
+[]
