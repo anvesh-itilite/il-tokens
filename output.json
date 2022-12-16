@@ -165,138 +165,327 @@
   },
   "shadow": {
     "100": {
-      "value": {
-        "x": 0,
-        "y": 1,
-        "blur": 0,
-        "spread": 0,
-        "color": "#1118271a",
-        "type": "dropShadow"
+      "x": {
+        "value": 0,
+        "type": "x"
       },
-      "type": "boxShadow",
-      "description": "Used for buttons, cards, panels etc."
+      "y": {
+        "value": 1,
+        "type": "y"
+      },
+      "blur": {
+        "value": 0,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 0,
+        "type": "spread"
+      },
+      "color": {
+        "value": "#1118271a",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
     },
     "200": {
-      "value": [
-        {
-          "color": "#1118271a",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 1,
-          "spread": 0
+      "0": {
+        "color": {
+          "value": "#1118271a",
+          "type": "color"
         },
-        {
-          "color": "#11182726",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 2,
-          "blur": 4,
-          "spread": 0
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        },
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 1,
+          "type": "y"
+        },
+        "blur": {
+          "value": 1,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 0,
+          "type": "spread"
         }
-      ],
-      "type": "boxShadow",
-      "description": "Used for cards, panels etc."
+      },
+      "1": {
+        "color": {
+          "value": "#11182726",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        },
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 2,
+          "type": "y"
+        },
+        "blur": {
+          "value": 4,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 0,
+          "type": "spread"
+        }
+      }
     },
     "300": {
-      "value": [
-        {
-          "color": "#1118271a",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 2,
-          "spread": 0
+      "0": {
+        "color": {
+          "value": "#1118271a",
+          "type": "color"
         },
-        {
-          "color": "#11182726",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 4,
-          "blur": 8,
-          "spread": 0
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        },
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 1,
+          "type": "y"
+        },
+        "blur": {
+          "value": 2,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 0,
+          "type": "spread"
         }
-      ],
-      "type": "boxShadow",
-      "description": "Used for navigation panels."
+      },
+      "1": {
+        "color": {
+          "value": "#11182726",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        },
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 4,
+          "type": "y"
+        },
+        "blur": {
+          "value": 8,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 0,
+          "type": "spread"
+        }
+      }
     },
     "400": {
-      "value": [
-        {
-          "color": "#11182726",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 3,
-          "spread": 0
+      "0": {
+        "color": {
+          "value": "#11182726",
+          "type": "color"
         },
-        {
-          "color": "#11182726",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 8,
-          "blur": 16,
-          "spread": -2
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        },
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 1,
+          "type": "y"
+        },
+        "blur": {
+          "value": 3,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 0,
+          "type": "spread"
         }
-      ],
-      "type": "boxShadow",
-      "description": "Used for popovers, menus etc."
+      },
+      "1": {
+        "color": {
+          "value": "#11182726",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        },
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 8,
+          "type": "y"
+        },
+        "blur": {
+          "value": 16,
+          "type": "blur"
+        },
+        "spread": {
+          "value": -2,
+          "type": "spread"
+        }
+      }
     },
     "500": {
-      "value": [
-        {
-          "color": "#11182733",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 4,
-          "spread": -1
+      "0": {
+        "color": {
+          "value": "#11182733",
+          "type": "color"
         },
-        {
-          "color": "#11182726",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 16,
-          "blur": 32,
-          "spread": -4
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        },
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 1,
+          "type": "y"
+        },
+        "blur": {
+          "value": 4,
+          "type": "blur"
+        },
+        "spread": {
+          "value": -1,
+          "type": "spread"
         }
-      ],
-      "type": "boxShadow",
-      "description": "Used for modals."
+      },
+      "1": {
+        "color": {
+          "value": "#11182726",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        },
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 16,
+          "type": "y"
+        },
+        "blur": {
+          "value": 32,
+          "type": "blur"
+        },
+        "spread": {
+          "value": -4,
+          "type": "spread"
+        }
+      }
     },
     "inset": {
-      "value": {
-        "color": "#1118271a",
-        "type": "innerShadow",
-        "x": 0,
-        "y": 2,
-        "blur": 0,
-        "spread": 0
+      "color": {
+        "value": "#1118271a",
+        "type": "color"
       },
-      "type": "boxShadow"
+      "type": {
+        "value": "innerShadow",
+        "type": "type"
+      },
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 2,
+        "type": "y"
+      },
+      "blur": {
+        "value": 0,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 0,
+        "type": "spread"
+      }
     }
   },
   "focus": {
-    "value": [
-      {
-        "color": "#0a65e7",
-        "type": "dropShadow",
-        "x": 0,
-        "y": 0,
-        "blur": 0,
-        "spread": 4
+    "0": {
+      "color": {
+        "value": "#0a65e7",
+        "type": "color"
       },
-      {
-        "color": "#ffffff",
-        "type": "dropShadow",
-        "x": 0,
-        "y": 0,
-        "blur": 0,
-        "spread": 2
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      },
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 0,
+        "type": "y"
+      },
+      "blur": {
+        "value": 0,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 4,
+        "type": "spread"
       }
-    ],
-    "type": "boxShadow",
-    "description": "Used for focus visible."
+    },
+    "1": {
+      "color": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      },
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 0,
+        "type": "y"
+      },
+      "blur": {
+        "value": 0,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 2,
+        "type": "spread"
+      }
+    }
   },
   "opacity": {
     "none": {

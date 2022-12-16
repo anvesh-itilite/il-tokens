@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Dec 2022 13:41:56 GMT
+// Generated on Fri, 16 Dec 2022 06:08:57 GMT
 
 
 import UIKit
@@ -240,7 +240,18 @@ public enum StyleDictionaryEnum {
     public static let colorYellow80 = UIColor(red: 0.988, green: 0.933, blue: 0.686, alpha: 1)
     public static let colorYellow800 = UIColor(red: 0.302, green: 0.176, blue: 0.000, alpha: 1)
     public static let colorYellow900 = UIColor(red: 0.231, green: 0.137, blue: 0.000, alpha: 1)
-    public static let focus = [object Object],[object Object]
+    public static let focus0Blur = 0
+    public static let focus0Color = #0a65e7
+    public static let focus0Spread = 4
+    public static let focus0Type = dropShadow
+    public static let focus0X = 0
+    public static let focus0Y = 0
+    public static let focus1Blur = 0
+    public static let focus1Color = #ffffff
+    public static let focus1Spread = 2
+    public static let focus1Type = dropShadow
+    public static let focus1X = 0
+    public static let focus1Y = 0
     public static let fontFamilyInter = Inter
     public static let fontSize10 = 0.625rem
     public static let fontSize20 = 0.75rem
@@ -284,12 +295,66 @@ public enum StyleDictionaryEnum {
     public static let opacityNone = 0
     public static let opacityStrong = 0.8
     public static let opacitySubtle = 0.25
-    public static let shadow100 = [object Object]
-    public static let shadow200 = [object Object],[object Object]
-    public static let shadow300 = [object Object],[object Object]
-    public static let shadow400 = [object Object],[object Object]
-    public static let shadow500 = [object Object],[object Object]
-    public static let shadowInset = [object Object]
+    public static let shadow100Blur = 0
+    public static let shadow100Color = #1118271a
+    public static let shadow100Spread = 0
+    public static let shadow100Type = dropShadow
+    public static let shadow100X = 0
+    public static let shadow100Y = 1
+    public static let shadow2000Blur = 1
+    public static let shadow2000Color = #1118271a
+    public static let shadow2000Spread = 0
+    public static let shadow2000Type = dropShadow
+    public static let shadow2000X = 0
+    public static let shadow2000Y = 1
+    public static let shadow2001Blur = 4
+    public static let shadow2001Color = #11182726
+    public static let shadow2001Spread = 0
+    public static let shadow2001Type = dropShadow
+    public static let shadow2001X = 0
+    public static let shadow2001Y = 2
+    public static let shadow3000Blur = 2
+    public static let shadow3000Color = #1118271a
+    public static let shadow3000Spread = 0
+    public static let shadow3000Type = dropShadow
+    public static let shadow3000X = 0
+    public static let shadow3000Y = 1
+    public static let shadow3001Blur = 8
+    public static let shadow3001Color = #11182726
+    public static let shadow3001Spread = 0
+    public static let shadow3001Type = dropShadow
+    public static let shadow3001X = 0
+    public static let shadow3001Y = 4
+    public static let shadow4000Blur = 3
+    public static let shadow4000Color = #11182726
+    public static let shadow4000Spread = 0
+    public static let shadow4000Type = dropShadow
+    public static let shadow4000X = 0
+    public static let shadow4000Y = 1
+    public static let shadow4001Blur = 16
+    public static let shadow4001Color = #11182726
+    public static let shadow4001Spread = -2
+    public static let shadow4001Type = dropShadow
+    public static let shadow4001X = 0
+    public static let shadow4001Y = 8
+    public static let shadow5000Blur = 4
+    public static let shadow5000Color = #11182733
+    public static let shadow5000Spread = -1
+    public static let shadow5000Type = dropShadow
+    public static let shadow5000X = 0
+    public static let shadow5000Y = 1
+    public static let shadow5001Blur = 32
+    public static let shadow5001Color = #11182726
+    public static let shadow5001Spread = -4
+    public static let shadow5001Type = dropShadow
+    public static let shadow5001X = 0
+    public static let shadow5001Y = 16
+    public static let shadowInsetBlur = 0
+    public static let shadowInsetColor = #1118271a
+    public static let shadowInsetSpread = 0
+    public static let shadowInsetType = innerShadow
+    public static let shadowInsetX = 0
+    public static let shadowInsetY = 2
     public static let sizing0 = 0rem
     public static let sizing1 = 0.25rem
     public static let sizing10 = 2.5rem
