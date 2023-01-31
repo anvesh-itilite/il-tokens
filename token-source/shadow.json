@@ -115,20 +115,20 @@
   "focus": {
     "value": [
       {
-        "color": "{color.interactive.primary}",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "4"
-      },
-      {
         "color": "{color.white}",
         "type": "dropShadow",
         "x": "0",
         "y": "0",
         "blur": "0",
         "spread": "2"
+      },
+      {
+        "color": "{color.interactive.primary}",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "4"
       }
     ],
     "type": "boxShadow",
