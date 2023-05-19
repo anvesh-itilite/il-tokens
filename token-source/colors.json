@@ -467,17 +467,17 @@
     },
     "interactive": {
       "primary": {
-        "value": "{color.blue.500}",
+        "value": "{color.orange.500}",
         "type": "color",
         "description": "Used for links, text buttons, checkboxes etc."
       },
       "primary-hover": {
-        "value": "{color.blue.600}",
+        "value": "{color.orange.600}",
         "type": "color",
         "description": "Used for hovered links, text buttons, checkboxes etc."
       },
       "primary-active": {
-        "value": "{color.blue.700}",
+        "value": "{color.orange.700}",
         "type": "color",
         "description": "Used for pressed links, text buttons, checkboxes etc."
       },
